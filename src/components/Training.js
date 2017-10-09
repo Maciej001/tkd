@@ -38,7 +38,7 @@ const Training = ({data}) => (
     <h2>{data.title}</h2>
     <MyLink href={data.slides}>Slides</MyLink>
 
-    <MyLink href={data.start}>Github - start</MyLink>
+    <MyLink href={data.start}>Starting point</MyLink>
     <MyLink href={data.github}>Github - finished</MyLink>
   </Wrapper>
 );
