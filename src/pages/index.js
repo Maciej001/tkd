@@ -121,7 +121,7 @@ const IndexPage = () => (
     <PageSubtitle>Powered by</PageSubtitle>
     <Trainers>
       <Trainer imgUrl="https://pbs.twimg.com/profile_images/831594130182635520/XtToU7SS_400x400.jpg" name='Eli Schütze Ramírez' twitter='elibelly' company='Trainline Engineering'/>
-      <Trainer imgUrl="https://pbs.twimg.com/profile_images/831594130182635520/XtToU7SS_400x400.jpg" name='Lukasz Gandecki' twitter='lgandecki' company="The Brain Pro"/>
+      <Trainer imgUrl="https://s3-eu-west-1.amazonaws.com/codecamps/lukasz.jpg" name='Lukasz Gandecki' twitter='lgandecki' company="The Brain Pro"/>
       <Trainer imgUrl="https://pbs.twimg.com/profile_images/856476069532229632/NKrCmOZc_400x400.jpg" name='Oliver Turner' twitter='oliverturner' company="Ticketmaster"/>
       <Trainer imgUrl="https://pbs.twimg.com/profile_images/828559577717305344/PI09k_DZ_400x400.jpg" name='Maciej Nowakowski' twitter='nowakowskipl' company="Codecamps"/>
     </Trainers>
