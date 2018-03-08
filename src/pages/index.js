@@ -7,19 +7,19 @@ import Training from "../components/Training";
 const data = {
   beginner: {
     title: "React Introduction",
-    slides: "http://taboo-effect.surge.sh/#/",
+    slides: "http://six-pocket.surge.sh",
     start: "http://bit.ly/react-introduction",
     github: "https://github.com/Maciej001/nasa-pod"
   },
   hoc: {
     title: "Higher Order Components + Redux",
-    slides: "http://available-string.surge.sh/#/",
+    slides: "http://wrathful-ship.surge.sh",
     start: "https://github.com/Maciej001/marsagram-start",
     github: "https://github.com/Maciej001/marsagram"
   },
   graphql: {
     title: "GraphQL Introduction",
-    slides: "http://acoustic-cow.surge.sh",
+    slides: "http://defiant-drum.surge.sh",
     start: "http://bit.ly/graphql-sb",
     github: "https://github.com/Maciej001/Pokepedia"
   }
