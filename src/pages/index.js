@@ -7,13 +7,13 @@ import Training from "../components/Training";
 const data = {
   beginner: {
     title: "React Introduction",
-    slides: "taboo-effect.surge.sh",
+    slides: "http://taboo-effect.surge.sh/#/",
     start: "http://bit.ly/react-introduction",
     github: "https://github.com/Maciej001/nasa-pod"
   },
   hoc: {
     title: "Higher Order Components + Redux",
-    slides: "available-string.surge.sh",
+    slides: "http://available-string.surge.sh/#/",
     start: "https://github.com/Maciej001/marsagram-start",
     github: "https://github.com/Maciej001/marsagram"
   },
